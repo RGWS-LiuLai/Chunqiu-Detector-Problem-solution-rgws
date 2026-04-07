@@ -1,2 +1,12 @@
-# Chunqiu-Detector-Problem-solution
-将Chunqiu Detector-Problem solution写进 README并对其维护修改跟进等，方便求助者查阅。 （内容来自探索发现并测试，并非摘录自检测源码)
+# Chunqiu Detector-Problem solution
+> You can select your language below to view this document.
+
+> The document will be modified (added/deleted/renamed) as the detector is updated
+
+## language
+Select one of the following languages to view the solution file.
+
+[中文](/language/answer_zh.md)|[English](/language/answer_en.md)
+
+## Feedback or participate in translation
+You can branch and modify the warehouse and then pull the request, and I will check and decide whether to merge.
