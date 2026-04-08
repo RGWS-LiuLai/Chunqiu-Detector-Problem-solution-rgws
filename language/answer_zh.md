@@ -23,7 +23,7 @@
 
 ## Inconsistent mount
 > /proc/self/exe/解析出其中部分的挂载，然后再去看文件系统类型是否一致。
-> 暂时无解决方案
+> 尝试更换元模块解决
 
 ## TEE环境不可信
 > [来自Tencent](https://github.com/Tencent/soter)
