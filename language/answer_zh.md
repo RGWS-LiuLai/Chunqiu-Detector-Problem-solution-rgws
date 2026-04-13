@@ -28,7 +28,9 @@
 ## TEE环境不可信
 > [来自Tencent](https://github.com/Tencent/soter)
 > 与微信的指纹差不多。
-> 等待模块更新
+> 等待模块更新或者
+
+> 使用HMA-OSS对检测器隐藏Soter系统服务应用程序，尝试解决
 
 > 更换为TEESimulator/RS版，尝试解决
 
