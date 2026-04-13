@@ -27,6 +27,8 @@ If you need human help, please have a "good" attitude first.
 > Similar to WeChat's fingerprint.
 > Waiting for module updates.
 
+> Use HMA-OSS to hide the Soter system service application from the detector, and try to solve it.
+
 > Replace with TEESimulator/RS version to try and resolve.
 
 ## Tampered Attentionkey(X)
