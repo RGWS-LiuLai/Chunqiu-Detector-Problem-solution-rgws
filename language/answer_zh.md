@@ -159,7 +159,7 @@
 > 某些xp模块导致,也可卸载更换LSP模块
 
 ## 检测到Scene端口占用
-> scene软件，你可以尝试隐藏
+> 请查看此[项目](https://github.com/Andrea-lyz/Scene-Port-Hider-by-eBPF)并尝试解决
 > 
 > 无视此检测项，或者关闭scene的无障碍权限
 
